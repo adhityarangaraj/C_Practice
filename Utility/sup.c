@@ -1,9 +1,4 @@
-/*
-	Name:Adhitya R
-	Reg No:129003012
-	Date:16.09.25
-	Problem:Add two numbers
-*/
+
 #include<stdio.h>
 #include<math.h>
 void fact();
