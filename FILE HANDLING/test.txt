@@ -1,0 +1,4 @@
+Hi!This is my first c prog with files
+Hoping to have a favourable one
+5
+B
